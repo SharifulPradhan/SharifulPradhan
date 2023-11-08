@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sharifulpradhan" target="blank"><img src="https://img.shields.io/twitter/follow/sharifulpradhan?logo=twitter&style=for-the-badge" alt="sharifulpradhan" /></a> </p>
 
-- 🔭 I’m currently working on **Glowlabs**
+- 🔭 I’m currently working on **Huellas Labs**
 
 - 🌱 I’m currently learning **Python, Web3**
 
