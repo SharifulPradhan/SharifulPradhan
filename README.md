@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Python, Web3**
 
-- 👨‍💻 All of my projects are available at [https://shariful-pradhan-hridoy.netlify.app/](https://shariful-pradhan-hridoy.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sharifulpradhan.com/](sharifulpradhan.com)
 
 - 💬 Ask me about **React, JavaScript, Frontend Development**
 
-- 📫 How to reach me **sharifulhridoy01@gmail.com**
+- 📫 How to reach me **sharifulpradhan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qqM1Xe6-xvL5btU1mXi5eo1JxW9EhCBw/view?usp=sharing](https://drive.google.com/file/d/1qqM1Xe6-xvL5btU1mXi5eo1JxW9EhCBw/view?usp=sharing)
 
